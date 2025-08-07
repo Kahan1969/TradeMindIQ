@@ -1,0 +1,8 @@
+:root {
+  --background: #0d1117;
+  --text: #c9d1d9;
+}
+.light {
+  --background: #ffffff;
+  --text: #1c1e21;
+}
